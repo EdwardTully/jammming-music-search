@@ -1,0 +1,10 @@
+.popUpFlag {
+    
+   position: fixed;
+    color: white;
+    font-size: 100px;
+    margin-top: 200px;
+    margin-left: 700px;
+    list-style: none;
+
+}
